@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there! I'm Abdullah Ali
 
-<!--
-**abdullahali-devs/abdullahali-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer** specializing in **React, TypeScript, and Tailwind CSS**  
+🎯 Focused on building **accessible, performant, and modern user interfaces**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 🌱 Currently working as a **React Intern** at an IT company  
+- 💼 Building modern UI experiences with **React + Tailwind**  
+- ⚡ Learning more about **Next.js**, **TypeScript**, and **UI animations**  
+- 💬 Ask me about **frontend development** or **responsive design**  
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS  
+**Tools:** Git, VS Code, Vite, Figma  
+**Version Control:** Git & GitHub  
+
+---
+
